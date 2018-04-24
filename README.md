@@ -2,8 +2,8 @@
 Script example for Docker-Compose starting on boot. I always need this for my virtual machines but couldn't find a simple example.
 
 Two scripts are provided
-1. [docker-compose-app-background.service](docker-compose-app-background.service) - Run docker-compose in background (-d option)
-2. [docker-compose-app-foreground.service](docker-compose-app-background.service) - Run docker-compose in foreground
+- [docker-compose-app-background.service](https://github.com/hongkongkiwi/docker-compose-startonboot/blob/master/docker-compose-app-background.service) - Run docker-compose in background (-d option)
+- [docker-compose-app-foreground.service](https://github.com/hongkongkiwi/docker-compose-startonboot/blob/master/docker-compose-app-fpreground.service) - Run docker-compose in foreground
 
 ## Installation
 
